@@ -1,8 +1,6 @@
 # PhD-Thesis-Code
 Code for my PhD Thesis 
 
-The main brach contains the Python code.
-
 "eB.py" is the Python code of Erlang B formula, which defines the Erlang B function can be invoked by other programs
 
 "analytical_Result" is the programe code using Erlang B formula to derived the analytical result. Here, we assume the total 
