@@ -1,5 +1,7 @@
 # PhD-Thesis-Code
-Code for my PhD Thesis
+Code for my PhD Thesis 
+
+The main brach contains the Python code.
 
 "eB.py" is the Python code of Erlang B formula, which defines the Erlang B function can be invoked by other programs
 
