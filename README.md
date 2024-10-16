@@ -1,6 +1,6 @@
 # PhD-Thesis-Code
-Code for my PhD Thesis 
+Simulation codes for my PhD Thesis 
 
-Orignially was written in Matlalb.
+Originally they were written in MATLAB.
 
 I have created two braches, one stores Python Code, the other stores Matlab code.
